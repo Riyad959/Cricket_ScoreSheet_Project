@@ -1,2 +1,8 @@
 # Cricket_ScoreSheet_Project
-Cricket Score Sheet Project with C Language
+## Data Structure Course Project
+
+### Team Members
+- Moin Hasan (221-15-4762)
+- Riyadul Islam (221-15-4828)
+- Mahamudul Hasan 221-15-4990
+- Ariful Islam (221-15-4651)
